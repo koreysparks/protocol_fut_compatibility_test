@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<param>
+		<server_param trade_ip="10.1.54.51" trade_port="20000" trade_udp_port="19999" query_ip="10.1.54.51" query_port="20001" />
+		<db_param host="10.1.54.51" port="3306" db_name="fut_ees_config" user="shengli" pwd="shengli0" />
+		<user_info test_user_count="3" order_count="1000" order_wait_ms="1" dis="ms" />
+	</param>
+</config>
+  
